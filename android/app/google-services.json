@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "769125474142",
+    "firebase_url": "https://chatfluttter-8a7d4.firebaseio.com",
+    "project_id": "chatfluttter-8a7d4",
+    "storage_bucket": "chatfluttter-8a7d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769125474142:android:ed7300328053ccd3ccb9cf",
+        "android_client_info": {
+          "package_name": "com.vinntek.chatone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769125474142-s0q100ogcqm94v60qqk6km7v3h3t5do4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vinntek.chatone",
+            "certificate_hash": "cb09127ec77cc500be6bce7fd16bc3c7beb223d7"
+          }
+        },
+        {
+          "client_id": "769125474142-e9g5go11d88vcmk6gpj076mj8mco2lka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOr6wicnn5Ib7SacDz6HX_nXOmb4bkipA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769125474142-e9g5go11d88vcmk6gpj076mj8mco2lka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
