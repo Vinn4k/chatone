@@ -66,7 +66,7 @@ void Controls (String,dynamic)async{
     final FirebaseUser user = await _getuser();
     if(user ==null){
       _scarfoldKey.currentState.showSnackBar(
-        SnackBar(content: Text("Não foi possivel fazer login"),
+        SnackBar(content: Text("Não foi possivel fazerr login"),
         backgroundColor: Colors.red,)
       );
 
